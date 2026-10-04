@@ -1,0 +1,4 @@
+Page title is : Swag Labs
+visible home page text is : Products
+ Thanks text is visible  : Thank you for your order!
+visible on Login home page text is : Password for all users:
