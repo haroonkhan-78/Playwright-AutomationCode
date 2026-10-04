@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "smoke": "npx playwright test tests/source-demo.spec.ts --headed",
+    "regression" : "npx playwright test tests/haroon.ecom.spec.ts --headed"
+  },
   "keywords": [],
   "type": "commonjs",
   "devDependencies": {

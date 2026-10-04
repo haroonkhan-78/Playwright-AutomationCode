@@ -1,0 +1,2 @@
+Page title is : Learn and Practice Automation | automateNow
+response text is : Thank you for your response. 
