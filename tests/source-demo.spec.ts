@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('has title', async ({ page }) => {
+test('Launch the website and login into it and perform perchase scenario and logout from the website', async ({ page }) => {
   await page.setViewportSize({ width: 1536, height: 912 });
   await page.goto('https://www.saucedemo.com/');
  /* await page.goto('https://playwright.dev/');
